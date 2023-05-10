@@ -1,0 +1,45 @@
+exports.USER_TYPES = ["ADMIN", "SUPERADMIN"];
+exports.PLACE_AREAS = [
+  "Abacoran sefer", "Abadina", "Abnet", "Adis ketem", "Adis sefer", "Adisu gebeya", "Agust", "Akaki kalit",
+  "Amanuel area", "Ambassador", "American gibi", "Arat kilo", "Aroge kera","Kolfe", "18", "Asko", "Asko", "birchiko", "fabrica", "Atklt tera" ,
+  "Atena tera", "Autobus tera" ,"Aware" ,"Ayat", "Ayer Tena" ,"Beg tera" ,"Bherawi" ,"Beklo bet", "Bsrate gebriel", "Biss mebrat", "Bole", "ayat", "Bole Michael", "Bole airport", "Bulgaria mazoria",
+  "Cinema Ras", "Dar mar", "Datsun sefer", "Doro manekia", "Enderase", "Enkulal fabrica", "Ere bekentu", "Gedam sefer", "Geja sefer",
+  "Gerji", "Giorgis", "Gola Michael", "Goma kuteba", "Gotera", "Habte giorgis", "Jemo", "Kara alo", "Kazanchis", "Kebena","Kera", "Kirkos", "Kolfe", "Kotebe", "Kuas meda",
+  "La gare(leghar)", "Lafto", "Lancha", "Lebu", "Leg tafo", "Lekwwanda", "Ldeta", "Mechare meda", "Bole Medhanialem", "Megenagna", "Mekanisa", "Menaharia", "kazanchis", "Mennen", "Merkato", "Mesalemia", "Meshualekia",
+  "Meskel flower" ,"Mexico" ,"Kera" ,"Mobil" ,"Mola Maru" ,"Nfas silk" ,"lafto" ,"Olompia" ,"Paster" ,"Piasa(piazza)","Posta bet" ,"Ras mekonn dildiy",
+  "Repi", "Riche", "Rufael", "Ruwanda", "Sar bet", "Saris", "Saris abo","Sebara Babur","Sebategna" , "Semen mazegaja", "Senga tera", "Serategna sefer", "Sheh ojele (shegole)",
+  "Shiromeda", "Shola", "Somali tera", "3kutr mazoria (total)", "Sunshine real estate", "Talian sefer", "Teklehaymanot", "Tor hayloch", "Urael", "Vatican", "Webe berha",
+  "Wolo sefer", "Winget", "Yeka", "Yohannes", "Zene werk real estate", "Bela","Bulbula", "Haya hulet (22)","Ayer Tena","Japan","Bole bras", "Alem  bank", "Entoto",
+  "Tulu dimtu", "Semit","Chichinia", "Meskel adebabay", "4 kilo","6 kilo", "Goro", "Tafo", "Augusta", "Gewasa", "Bole arabsa"
+];
+exports.PLCAE_CATEGORY = [
+  "Clothes and shoes",
+  "Beauty and cosmetics: spa, salon, cosmetic shops",
+  "Supermarket", "health: hospital, pharmacy, clinic",
+  "Financial service - bank, microfinance",
+  "Event: decor, weeding planning, photography and video,halls",
+  "Hotel",
+  "Cafe and restaurants",
+  "Electronics",
+  "Food: baltina",
+  "Book and stationary",
+  "Construction materials: almunium accessories, interior design, light, ceramics",
+  "Liquor store",
+  "Furniture",
+  "Bakery and pastry",
+  "Garage",
+  "Institutions: driving, makeup, college",
+  "Laundry",
+  "Firm: advertisement, music company, law, financial",
+  "Shopping mall",
+  "Child day care",
+  "Car dealerships and rental",
+  "Recreational centers",
+  "Real estate",
+  "ICT soln",
+  "Gift and flower shop",
+  "Insurance",
+  "Sports: Gym, Gym clothes",
+  "Jewelry"
+];
+exports.STATUS = ["Pending","Approved"];
